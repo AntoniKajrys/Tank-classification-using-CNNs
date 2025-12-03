@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1%2B-orange.svg)](https://pytorch.org/)
-[![Report](https://img.shields.io/badge/Report-PDF-green.svg)](Project_Report.pdf)
+[![Report](https://img.shields.io/badge/Report-PDF-green.svg)](<Project%20Report.pdf>)
 
 This project develops a deep learning model to classify military tanks by country of origin (**American**, **Russian**, **Israeli**) from RGB images. It addresses friendly fire risks in unmanned systems by enabling reliable target identification.
 
