@@ -46,7 +46,7 @@ Data: [`data_combined/train|val|test/`] – Images named `{class}_{index}.jpg`.
 
 CNN outperforms RF, especially on underrepresented American tanks. Overfitting noted; future: weighted CE loss, augmentation.
 
-**Full Report**: [Project Report.pdf](Project_Report.pdf)
+**Full Report**: [Project Report.pdf](<Project%20Report.pdf>)
 
 ## 🚀 Quick Start
 
